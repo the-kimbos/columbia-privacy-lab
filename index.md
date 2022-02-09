@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Columbia Privacy Lab (c/privacy lab)
 
-You can use the [editor on GitHub](https://github.com/the-kimbos/columbia-privacy-lab/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The Columbia Privacy Lab (“c/privacy lab” or “cpl”) helps communities collectively advocate for privacy. We pose technical and sociological questions around user privacy and rights, connected to broader themes of democracy, transparency, and public trust. Cpl teaches skills for protecting privacy in digital, educational/campus, and community spaces. Cpl provides space for reciprocal learning opportunities, building trust and creating accessible ways of understanding digital privacy and its far reaching socio-political consequences. As an entity embedded in Columbia University, we recognize the historical and institutional legacies of the campus’ relationship to its neighbors. Cpl is committed to learning alongside people of color and marginalized communities.
+
+In partnership with the American Assembly’s Democracy & Trust Program we share critical, leading edge scholarship about privacy through action-oriented research.
+
 
 ### Markdown
 
